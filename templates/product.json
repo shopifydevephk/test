@@ -282,7 +282,6 @@
             "product_back_instock_qMdMA6",
             "product_pickup_Jpchr6",
             "group_product_accordion_bqgziH",
-            "essential_upsell_frequently_bought_together_app_block_V9yjA3",
             "product_trust_badge_QALnxQ",
             "product_extra_link_HfDmDV",
             "product_meta_hnDEjn",
@@ -867,7 +866,7 @@
           "type": "section-heading",
           "static": true,
           "settings": {
-            "design_heading": "6",
+            "design_heading": "2",
             "horizontal": false,
             "alignment": "center",
             "heading_gap": 15,
@@ -969,7 +968,7 @@
           "type": "section-heading",
           "static": true,
           "settings": {
-            "design_heading": "6",
+            "design_heading": "2",
             "horizontal": false,
             "alignment": "center",
             "heading_gap": 18,
