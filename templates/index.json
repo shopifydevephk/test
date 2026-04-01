@@ -86,6 +86,89 @@
         "pd_mb": ",,22px,"
       }
     },
+    "featured_collection_arURV9": {
+      "type": "featured-collection",
+      "blocks": {
+        "product_grid_PPbEQC": {
+          "type": "_product-grid",
+          "settings": {
+            "collection": "new-arrivals-new-fun",
+            "products_count": 4,
+            "product_list": [],
+            "pr_border": "none",
+            "product_des": "6",
+            "image_ratio": "square",
+            "image_size": true,
+            "show_vendor": false,
+            "col_dk": "4",
+            "col_tb": "3",
+            "col_mb": "2",
+            "space_items": "x",
+            "pagination": true,
+            "pagination_color_scheme": "scheme-f4470344-1af5-4a09-83f9-8c744b23a9c7",
+            "pagination_type": "load_more",
+            "enable_progressbar": false,
+            "paginate_pos": "center",
+            "dis_pagination": 30,
+            "btn_label": "Load more",
+            "btn_style": "",
+            "endable_btn_icon": false,
+            "size": "l",
+            "btn_fw": "semibold",
+            "rounded": "",
+            "font_size_btn": 14,
+            "padding_btn": 30,
+            "min_width_btn": 100,
+            "min_width_dt_btn": 100,
+            "min_height_btn": 40
+          },
+          "blocks": {}
+        },
+        "pr-heading": {
+          "type": "section-heading",
+          "static": true,
+          "settings": {
+            "design_heading": "2",
+            "horizontal": false,
+            "alignment": "center",
+            "heading_gap": 0,
+            "margin_bottom": 38
+          },
+          "blocks": {
+            "heading_section_WfFUa4": {
+              "type": "_heading_section",
+              "settings": {
+                "heading": "New Arrivals - New & Fun",
+                "line_height": "",
+                "heading_size": "h3",
+                "text_color": "hdt-text-secondary",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_section_WfFUa4"
+          ]
+        }
+      },
+      "block_order": [
+        "product_grid_PPbEQC"
+      ],
+      "settings": {
+        "colors_by_section": true,
+        "color_scheme": "scheme-e0b73555-c767-4eda-aa6d-4e44e10aefce",
+        "background_opacity": 1,
+        "section_layout": "wrapper_container",
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "35px,,35px,",
+        "pd_mb": ""
+      }
+    },
     "collections_list_qQUx4d": {
       "type": "collections-list",
       "blocks": {
@@ -226,11 +309,11 @@
         "pag_mgt": 10,
         "pag_hide_mobile": false,
         "colors_by_section": true,
-        "color_scheme": "scheme-eac7274b-b27d-4e8e-b5d3-205597161b9f",
-        "background_opacity": 0,
+        "color_scheme": "scheme-f4470344-1af5-4a09-83f9-8c744b23a9c7",
+        "background_opacity": 1,
         "section_layout": "wrapper_container",
         "hdt_background_parallax": false,
-        "mg": ",,15px,",
+        "mg": "",
         "mg_mb": ",,20px,",
         "pd": "25px,,25px,",
         "pd_mb": ""
@@ -375,96 +458,13 @@
         "pag_mgt": 10,
         "pag_hide_mobile": false,
         "colors_by_section": true,
-        "color_scheme": "scheme-eac7274b-b27d-4e8e-b5d3-205597161b9f",
-        "background_opacity": 0,
-        "section_layout": "wrapper_container",
-        "hdt_background_parallax": false,
-        "mg": "15px,,15px,",
-        "mg_mb": ",,20px,",
-        "pd": ",,25px,",
-        "pd_mb": ""
-      }
-    },
-    "featured_collection_arURV9": {
-      "type": "featured-collection",
-      "blocks": {
-        "product_grid_PPbEQC": {
-          "type": "_product-grid",
-          "settings": {
-            "collection": "new-arrivals-new-fun",
-            "products_count": 4,
-            "product_list": [],
-            "pr_border": "none",
-            "product_des": "6",
-            "image_ratio": "square",
-            "image_size": true,
-            "show_vendor": false,
-            "col_dk": "4",
-            "col_tb": "3",
-            "col_mb": "2",
-            "space_items": "x",
-            "pagination": true,
-            "pagination_color_scheme": "scheme-f4470344-1af5-4a09-83f9-8c744b23a9c7",
-            "pagination_type": "load_more",
-            "enable_progressbar": false,
-            "paginate_pos": "center",
-            "dis_pagination": 30,
-            "btn_label": "Load more",
-            "btn_style": "",
-            "endable_btn_icon": false,
-            "size": "l",
-            "btn_fw": "semibold",
-            "rounded": "",
-            "font_size_btn": 14,
-            "padding_btn": 30,
-            "min_width_btn": 100,
-            "min_width_dt_btn": 100,
-            "min_height_btn": 40
-          },
-          "blocks": {}
-        },
-        "pr-heading": {
-          "type": "section-heading",
-          "static": true,
-          "settings": {
-            "design_heading": "2",
-            "horizontal": false,
-            "alignment": "center",
-            "heading_gap": 0,
-            "margin_bottom": 38
-          },
-          "blocks": {
-            "heading_section_WfFUa4": {
-              "type": "_heading_section",
-              "settings": {
-                "heading": "New Arrivals - New & Fun",
-                "line_height": "",
-                "heading_size": "h3",
-                "text_color": "hdt-text-secondary",
-                "font_size_heading_lg": 50,
-                "font_size_heading": 24,
-                "letter_spacing_heading": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "heading_section_WfFUa4"
-          ]
-        }
-      },
-      "block_order": [
-        "product_grid_PPbEQC"
-      ],
-      "settings": {
-        "colors_by_section": true,
         "color_scheme": "scheme-f4470344-1af5-4a09-83f9-8c744b23a9c7",
         "background_opacity": 1,
         "section_layout": "wrapper_container",
         "hdt_background_parallax": false,
-        "mg": "",
-        "mg_mb": "",
-        "pd": "35px,,35px,",
+        "mg": "0,,15px,",
+        "mg_mb": ",,20px,",
+        "pd": "10px,,35px,",
         "pd_mb": ""
       }
     },
@@ -1628,9 +1628,9 @@
   },
   "order": [
     "slideshow_EVrUzi",
+    "featured_collection_arURV9",
     "collections_list_qQUx4d",
     "collections_list_9pkCGX",
-    "featured_collection_arURV9",
     "featured_collection_PTq36A",
     "featured_collection_MtUzdj",
     "featured_collection_mU4d79",
