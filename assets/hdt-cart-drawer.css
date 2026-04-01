@@ -508,21 +508,44 @@ cart-items-component {
 /* mini cart tools */
 .hdt-mini-cart__tool{
   background-color: rgb(var(--color-background2));
-  padding: 1.6rem 0;
+  padding: 1.6rem;
+  display: grid;
+  gap: 1rem;
+}
+.hdt-mini-cart__tool > hdt-tooltip,
+.hdt-mini-cart__tool > div,
+.hdt-mini-cart__tool > div > hdt-tooltip {
+  display: block;
+  width: 100%;
 }
 .hdt-mini-cart__tool button{
-  width: 5rem;
-  height:5rem;
-  line-height: 5rem;
-  margin:0rem 0.8rem;
+  width: 100%;
+  min-height: 4.6rem;
+  margin: 0;
+  padding: 0.8rem 1.4rem;
   cursor: pointer;
   transition: all .3s ease;
   box-shadow: 9px 5px 10px #dfe3ea, -5px -5px 10px #faffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  text-align: center;
 }
 .hdt-mini-cart__tool button svg{
   fill: currentColor;
-  width: 25px;
+  width: 2.2rem;
   height: auto;
+  flex-shrink: 0;
+}
+.hdt-mini-cart__tool-btn-label{
+  line-height: 1.3;
+}
+.hdt-mini-cart__tool--style-icon .hdt-mini-cart__tool_btn{
+  padding-inline: 1rem;
+}
+.hdt-mini-cart__tool--style-icon .hdt-mini-cart__tool_btn svg{
+  margin: 0 auto;
 }
 .hdt-dialog-cart-action {
   padding: 2rem;
