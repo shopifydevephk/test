@@ -908,7 +908,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "email_label": "Email or phone number"
+        "email_placeholder": "Email or phone number"
       }
     }
   }
