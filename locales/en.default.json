@@ -904,5 +904,12 @@
     "october": "October",
     "november": "November",
     "december": "December"
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "email_label": "Email or phone number"
+      }
+    }
   }
 }
