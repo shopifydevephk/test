@@ -909,7 +909,8 @@
     "checkout": {
       "contact": {
         "email_placeholder": "Email or phone number",
-        "email_label": "Email or phone number"
+        "email_label": "Email or phone number",
+        "address1_label": "Address (العنوان بالتفصيل)"
       }
     }
   }
