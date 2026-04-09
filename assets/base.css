@@ -5715,8 +5715,3 @@ hdt-variant-option {
 }
 
 
-@media screen and (max-width:1024px){
- .hdt-site-nav_search{
-    display:none
-}
-}
