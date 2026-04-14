@@ -362,7 +362,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "truck",
-            "image_icon": "shopify://shop_images/177262762952396038_1.png",
+            "image_icon": "shopify://shop_images/177616093759227570_2.png",
             "icon": ""
           },
           "blocks": {
@@ -447,7 +447,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "piggy",
-            "image_icon": "shopify://shop_images/177262762952396038.png",
+            "image_icon": "shopify://shop_images/177616093759227570_1.png",
             "icon": ""
           },
           "blocks": {
@@ -476,7 +476,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "cash",
-            "image_icon": "shopify://shop_images/177262762952396038_2.png",
+            "image_icon": "shopify://shop_images/177616093759227570.png",
             "icon": ""
           },
           "blocks": {
