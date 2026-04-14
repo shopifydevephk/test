@@ -1112,7 +1112,7 @@
         "col_tb": "2",
         "col_mb": "1",
         "loop": true,
-        "autoplay": 0,
+        "autoplay": 3,
         "pauseOnHover": false,
         "navUI": true,
         "navUICenter": true,
