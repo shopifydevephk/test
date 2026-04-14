@@ -84,7 +84,7 @@
       "custom_css": [
         ".hdt-site-nav_icon .hdt-site-nav_search .hdt-inline-flex .hdt-align-center {display: none !important;}",
         "@media screen and (max-width: 1024px) {.hdt-site-nav_search {display: none; }}",
-        ".hdt-menu-on-mobile,.hdt-dropdown-menu ul li a{font-weight: bold;}"
+        ".hdt-menu-on-mobile,.hdt-menu-on-mobile li a,.hdt-dropdown-menu ul li a {font-weight: bold;}"
       ],
       "settings": {
         "header_layout": "logo_left",
