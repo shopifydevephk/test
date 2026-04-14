@@ -453,7 +453,7 @@
               "type": "_copyright",
               "name": "Copyright",
               "settings": {
-                "text": "<span class=\"hdt-text-secondary\">Copyright © [year] <span style=\"color:#efdc12\">Jollybee</span> all rights reserved.</span>"
+                "text": "<span class=\"hdt-text-secondary\">Copyright © [year] <span style=\"color:#f4dd0c;font-weight: 700\">Jollybee</span> all rights reserved.</span>"
               },
               "blocks": {}
             }
