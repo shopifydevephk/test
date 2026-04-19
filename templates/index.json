@@ -1214,7 +1214,7 @@
         "col_dk": "4",
         "col_tb": "3",
         "col_mb": "1",
-        "space_items": "x",
+        "space_items": "20",
         "loop": false,
         "autoplay": 0,
         "pauseOnHover": false,
