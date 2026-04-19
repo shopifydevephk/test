@@ -1148,7 +1148,16 @@
           "settings": {
             "video": "{{ closest.product.metafields.custom.product_video.value }}",
             "external_video_url": "",
-            "product": "animals-car"
+            "product": "busy-ball"
+          },
+          "blocks": {}
+        },
+        "product_video_RM9BYm": {
+          "type": "_product-video",
+          "settings": {
+            "video": "{{ closest.product.metafields.custom.product_video.value }}",
+            "external_video_url": "",
+            "product": "soft-books-📚"
           },
           "blocks": {}
         },
@@ -1157,7 +1166,7 @@
           "settings": {
             "video": "{{ closest.product.metafields.custom.product_video.value }}",
             "external_video_url": "",
-            "product": "jonny-lambert"
+            "product": "12-small-duck"
           },
           "blocks": {}
         },
@@ -1166,7 +1175,7 @@
           "settings": {
             "video": "{{ closest.product.metafields.custom.product_video.value }}",
             "external_video_url": "",
-            "product": "shape-column-digital-operation"
+            "product": "lock-car-toy-🚙🔓"
           },
           "blocks": {}
         },
@@ -1185,6 +1194,7 @@
       },
       "block_order": [
         "product_video_WEEPDX",
+        "product_video_RM9BYm",
         "product_video_iYQUVq",
         "product_video_6HiE9c"
       ],
@@ -1201,7 +1211,7 @@
         "fixed_height": 450,
         "image_height_mb": "fixed",
         "fixed_height_mb": 370,
-        "col_dk": "3",
+        "col_dk": "4",
         "col_tb": "3",
         "col_mb": "1",
         "space_items": "x",
