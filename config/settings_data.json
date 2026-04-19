@@ -141,7 +141,7 @@
     "blocks": {
       "8034304778247043794": {
         "type": "shopify://apps/woohoo-spin-popups-email-sms/blocks/app-embed/0199d2e8-54ff-7192-a350-81adbeaf50f6",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     },
